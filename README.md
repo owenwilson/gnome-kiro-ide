@@ -41,7 +41,7 @@ sudo ln -s /opt/kiro/kiro-ide/bin/kiro
 - download svg file and convert to ico
 
 ```sh
-magick -density 256x256 -background transparent file-kiro.svg -define icon:auto-resize -colors 256 kiro.ico
+magick -density 256x256 -background transparent file-kiro.svg -define icon:auto-resize -colors 256 kiro-icon.ico
 ```
 
 - copy file
