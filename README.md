@@ -10,7 +10,7 @@ sudo dnf install -y ImageMagick
 
 ## install kiro-ide
 
-- please check [the kiro-ide web](https://kiro.dev/)
+- please check [the kiro-ide web](https://kiro.dev/docs/getting-started/installation/)
 
 ```sh
 tar -xzvf kiro-ide-1.0.116-stable-linux-x64.tar.gz
