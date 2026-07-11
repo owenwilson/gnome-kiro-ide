@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=kiro
+Exec=/usr/sbin/kiro
+Icon=/opt/kiro/kiro-ico/kiro-icon.ico
+Terminal=false
+Categories=Utility;TextEditor;Development;IDE;
+MimeType=x-scheme-handler/kiro;
+Keywords=kiro;
