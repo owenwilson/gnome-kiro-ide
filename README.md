@@ -1,6 +1,7 @@
 # gnome kiro-ide
 
 - In this respository, I'm only showing the installation I set up for a linux operating system with GNOME.
+- current version 1.0.116
 
 ## dependencies
 
@@ -54,9 +55,10 @@ sudo cp file-kiro.svg /opt/kiro/kiro-ico
 - configure gnome desktop file
 
 ```sh
-cp kiro.desktop /home/usert /.local/share/applications/kiro.desktop
+cp kiro.desktop /home/user/.local/share/applications/kiro.desktop
 ```
-
+ 
 ## reference
 
 - check [kiro-ide](https://kiro.dev/)
+- please check out [how to create a .desktop file to show up among my app?](https://discussion.fedoraproject.org/t/how-to-create-a-desktop-file-to-show-up-among-my-apps/128596/3)
